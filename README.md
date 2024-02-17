@@ -12,5 +12,4 @@ Notable features:
 
 [Apache-2.0 License](LICENSE)
 
-
 # trigger wiz scan 2
